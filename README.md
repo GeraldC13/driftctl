@@ -1,5 +1,7 @@
+
+
 # About driftctl
-`driftctl` measures infrastucture as code coverage, and tracks infrastructure drift.
+`driftctl` measures infrastructure as code coverage, and tracks infrastructure drift.
 
 ## Why ?
 
